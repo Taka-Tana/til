@@ -1,4 +1,17 @@
 
+### 2022/08/05
+・GitHubとVS Codeを連携  
+URL https://breezegroup.co.jp/202102/vscode-github-windows/  
+VS Codeはインストール済  
+Gitのインストールから。　→　https://git-scm.com/  
+![image](https://user-images.githubusercontent.com/102006535/183086639-e28d2360-8645-413b-a378-43360196bed1.png)  
+よくわからんけどこのへん（https://eng-entrance.com/git-install#Git )を参考しながら、これを選択。    
+![image](https://user-images.githubusercontent.com/102006535/183087094-34333aa7-1d66-4eae-b2d0-d612e5dc9c00.png)  
+![image](https://user-images.githubusercontent.com/102006535/183087264-c0162864-f655-4195-b986-1e9507aa97a1.png)  
+![image](https://user-images.githubusercontent.com/102006535/183087322-8f532d7e-17f7-4bf6-8f4f-eb801fa783a1.png)  
+  
+  
+  
 ### 2022/08/04
 ・Dockerのインストール  
 　ここからインストーラをダウンロードして実行  
