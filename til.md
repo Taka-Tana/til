@@ -10,6 +10,8 @@ Gitのインストールから。　→　https://git-scm.com/
 ![image](https://user-images.githubusercontent.com/102006535/183087264-c0162864-f655-4195-b986-1e9507aa97a1.png)  
 ![image](https://user-images.githubusercontent.com/102006535/183087322-8f532d7e-17f7-4bf6-8f4f-eb801fa783a1.png)  
   
+  ・ProgateでHTML CSS学習
+　学習レッスン HTML & CSS 初級編終了
   
   
 ### 2022/08/04
