@@ -1,7 +1,8 @@
 ### 2022/08/07
   ・Progate　HTML & CSS 学習レッスン 中級編 終了  
   ・Progate　HTML & CSS 初級編　道場レッスン　終了  
-  
+  ・Progate　HTML & CSS 中級編　道場レッスン　終了  
+
 
 
 ### 2022/08/06
