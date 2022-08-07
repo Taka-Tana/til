@@ -1,3 +1,12 @@
+### 2022/08/07
+  ・Progate　HTML & CSS 学習レッスン 中級編 終了  
+  ・Progate　HTML & CSS 初級編　道場レッスン　終了  
+  
+
+
+### 2022/08/06
+  ・Progate　HTML & CSS 学習レッスン 中級編 1-12
+
 
 ### 2022/08/05
 ・GitHubとVS Codeを連携  
@@ -24,7 +33,7 @@ Gitのインストールから。　→　https://git-scm.com/
 ![image](https://user-images.githubusercontent.com/102006535/182847531-6a5e9459-6884-43ed-aa70-9bdfbadd0e77.png)  
   
 ここを参考にWSL2の有効化を行う  
-手順4を実行してLinux カーネル更新プログラム パッケージをダウンロード・インストールする
+手順4を実行してLinux カーネル更新プログラム パッケージをダウンロード・インストールする  
 https://docs.microsoft.com/ja-jp/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package  
 そして「Restart」をクリック  
   
