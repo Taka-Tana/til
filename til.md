@@ -1,3 +1,9 @@
+### 2022/08/08
+  ・Progate　HTML & CSS 学習レッスン 上級編 終了　30分  
+  　レスポンシブ対応の書き方
+  　responsive.cssを分けて記述  
+    `@media(max-width:xxpx){}`
+
 ### 2022/08/07
   ・Progate　HTML & CSS 学習レッスン 中級編 終了  
   ・Progate　HTML & CSS 初級編　道場レッスン　終了  
