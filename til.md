@@ -2,6 +2,10 @@
 ・Progate　HTML & CSS 道場レッスン 上級編 終了  
 　floatを解除する `clear:left;`をfloatの子要素の最後に入れる  
 ・HTML & CSS Flexbox編  
+・HTML＆CSS　模写コーディング準備  
+  参考（模写コーディングの始め方: https://qiita.com/yudwig/items/a33a6e3e442c833eccd0 ）  
+  (【超入門】初心者向け 模写コーディング！オススメのやり方とポイント【HTML・CSS コーディング】: https://www.youtube.com/watch?v=OH1X09Ilu9E&t=0s )
+
 ### 2022/08/08
   ・Progate　HTML & CSS 学習レッスン 上級編 終了　30分  
   　レスポンシブ対応の書き方
